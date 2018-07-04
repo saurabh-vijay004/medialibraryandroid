@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 2.0.0
+apiversion: 4
+description: medialibraryandroid
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2018 by Your Company
+
+# these should not be edited
+name: medialibraryandroid
+moduleid: com.mykingdom.media
+guid: 56f19fc2-c379-4fab-959a-8ba920cb2756
+platform: android
+minsdk: 7.0.0.GA
+architectures: arm64-v8a armeabi-v7a x86
